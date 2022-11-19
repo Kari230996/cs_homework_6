@@ -1,0 +1,15 @@
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\bin\Debug\net6.0\6.exe
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\bin\Debug\net6.0\6.deps.json
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\bin\Debug\net6.0\6.runtimeconfig.json
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\bin\Debug\net6.0\6.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\bin\Debug\net6.0\6.pdb
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.csproj.AssemblyReference.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.AssemblyInfoInputs.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.AssemblyInfo.cs
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.csproj.CoreCompileInputs.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\refint\6.dll
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.pdb
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\6.genruntimeconfig.cache
+D:\python_gb\Новое обучение\Знакомство с языками программирования\6\obj\Debug\net6.0\ref\6.dll
